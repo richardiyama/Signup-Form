@@ -19,6 +19,9 @@ This application mimicks the sign up process on a app
 ### Frontend deployed to netlify
 https://618eeb37d13c5600adce955f--two-step-registration-app.netlify.app
 
+### Backend deployed to heroku
+https://thawing-depths-22582.herokuapp.com
+
 ### Install Packages
 
 ### Runing with Docker locally
