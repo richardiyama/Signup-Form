@@ -23,19 +23,19 @@ https://618eeb37d13c5600adce955f--two-step-registration-app.netlify.app
 
 ### Runing with Docker locally
 
--cd to Multi-Step-Registartion-Form folder
--Run: docker-compose up  
--The above command will start the api(backend) and frontend app
+- cd to Multi-Step-Registartion-Form folder
+- Run: docker-compose up  
+- The above command will start the api(backend) and frontend app
 
 OR
 
--Run: npm install or yarn install or yarn add to install packages defined in the package.json file
+- Run: npm install or yarn install or yarn add to install packages defined in the package.json file
 
--cd to Backend Folder
--Run: node server.js or npm run dev to start the server.
+- cd to Backend Folder
+- Run: node server.js or npm run dev to start the server.
 
--cd to Frontend Folder
--Run: npm start to start React app
+- cd to Frontend Folder
+- Run: npm start to start React app
 
 
 ### The Frontend(Client Side) was built with
