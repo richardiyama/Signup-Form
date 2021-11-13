@@ -44,7 +44,7 @@ OR
 - [Formiz](https://formiz-react.com/) - React forms with ease! Composable, headless & with built-in multi steps and also comes with a validator
 
 # The Server Side(Backend) was built with
-- [Mysql(phpmyadmin)](https://www.phpmyadmin.net/) - An Sql Database
+- [Mysql(phpmyadmin)](https://www.phpmyadmin.net/) - A relational Sql Database
 - [Nodejs](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Sequelize ORM](https://sequelize.org/) - a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
 
