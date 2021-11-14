@@ -26,7 +26,7 @@ https://thawing-depths-22582.herokuapp.com
 
 ### Runing with Docker locally
 
-- cd to Multi-Step-Registartion-Form folder
+- cd to the root folder
 - Run: docker-compose up  
 - The above command will start the api(backend) and frontend app
 
